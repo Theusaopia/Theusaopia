@@ -1,16 +1,42 @@
-### Hi there 👋
+<h1 align="left">Sup! I'm Matheus.</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=theusaopia&color=blue" alt="Profile views" /> </p>
 
-<!--
-**Theusaopia/Theusaopia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Junior Java developer ☕
 
-Here are some ideas to get you started:
+- Currently working at [Inside Sistemas](https://www.insidesistemas.com.br) 💼
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- All of my projects are here 👩‍💻
+
+- Currently learning: **C#, .NET core, Spring Boot, SQL and Java (but I have room for more)** 📘
+
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=theusaopia&show_icons=true&theme=github_dark" alt="Theusaopia's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theusaopia&layout=compact&theme=github_dark" alt="Theusaopia's most languages"/>
+</p>
+
+<br><br>
+
+## 🛠 &nbsp;Tech Stack
+
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=spring)&nbsp;
+![CSharp](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Googling](https://img.shields.io/badge/-Googling-05122A?style=flat&logo=google)&nbsp;
+
+<br><br>
+
+## 📢 &nbsp;Social Links
+
+<a href="https://www.linkedin.com/in/matheus-dias-n98/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/math_eusera" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-math_eusera-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
