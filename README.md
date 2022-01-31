@@ -14,8 +14,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=theusaopia&show_icons=true&theme=github_dark" alt="Theusaopia's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theusaopia&layout=compact&theme=github_dark" alt="Theusaopia's most languages"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api?username=theusaopia&show_icons=true&theme=github_dark" alt="Theusaopia's stats"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theusaopia&layout=compact&theme=github_dark" alt="Theusaopia's most languages"/>
 </p>
 
 <br><br>
