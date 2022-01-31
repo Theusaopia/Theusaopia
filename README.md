@@ -1,7 +1,7 @@
 <h1 align="left">Sup! I'm Matheus.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theusaopia&color=blue" alt="Profile views" /> </p>
 
-- Junior Java developer ☕
+- Junior Java developer (but currently working with C#) ☕
 
 - Currently working at [Inside Sistemas](https://www.insidesistemas.com.br) 💼
 
