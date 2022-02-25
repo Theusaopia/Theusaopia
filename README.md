@@ -7,7 +7,7 @@
 
 - All of my projects are here 👩‍💻
 
-- Currently learning: **C#, .NET core, Spring Boot, SQL and Java (but I have room for more)** 📘
+- Currently learning: **Spring boot essentials (but I have room for more)** 📘
 
 <br><br>
 
