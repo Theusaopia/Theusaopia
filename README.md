@@ -7,7 +7,7 @@
 
 - All of my projects are here 👩‍💻
 
-- Currently learning: **Spring boot essentials (but I have room for more)** 📘
+- Currently learning: **Spring boot essentials, REST API's and Design Patterns (but I have room for more)** 📘
 
 <br><br>
 
