@@ -4,7 +4,8 @@
 
 - Currently working at [Inside Sistemas](https://www.insidesistemas.com.br) 💼
 
-- The majority of my projects are here, but, there are a few at GitLab (link below) 👩‍💻
+- The majority of my projects are here, but, there are a few at GitLab (<a href="https://gitlab.com/Theusaopia" target="_blank"> <img align="center" src="https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab" alt="gitlab"/>
+</a>) 👩‍💻
 
 - Currently learning: **Spring boot essentials, REST API's and Design Patterns (but I have room for more)** 📘
 
@@ -37,8 +38,5 @@
 </a>
 <a href="https://instagram.com/math_eusera" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-math_eusera-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://gitlab.com/Theusaopia" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-math_eusera-05122A?style=flat&logo=gitlab" alt="gitlab"/>
 </a>
 </p>
