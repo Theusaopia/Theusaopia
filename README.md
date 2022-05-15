@@ -1,8 +1,8 @@
 <h1 align="left">Sup! I'm Matheus.</h1>
 
-- Junior Java developer (but currently working with C#) ☕
+- Junior Java developer ☕
 
-- Currently working at [Inside Sistemas](https://www.insidesistemas.com.br) 💼
+- Currently working at [GFT Group](https://www.gft.com) as an intern 💼
 
 - The majority of my projects are here, but, there are a few at GitLab (<a href="https://gitlab.com/Theusaopia" target="_blank"> <img align="center" src="https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab" alt="gitlab"/>
 </a>) 👩‍💻
