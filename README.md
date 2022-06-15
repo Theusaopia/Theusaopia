@@ -14,7 +14,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="400em" src="https://github-readme-stats.vercel.app/api?username=theusaopia&show_icons=true&theme=github_dark" alt="Theusaopia's stats"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api?username=theusaopia&show_icons=true&theme=github_dark" alt="Theusaopia's stats"/><br>
 <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theusaopia&layout=compact&theme=github_dark" alt="Theusaopia's most languages"/>
 </p>
 
@@ -53,3 +53,9 @@
  <img align="center" src="https://img.shields.io/badge/-math_eusera-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
+
+<br><br>
+
+## 🎧 &nbsp;Spotify
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12174485439&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=12174485439&redirect=true)
