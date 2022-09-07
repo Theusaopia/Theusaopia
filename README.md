@@ -24,23 +24,26 @@
 
 - Main tools
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=spring)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
+![SpringBoot](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![MySql](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
 
 - General Tools (tools that i know how to use but still need a lot of improvement)
 
 ![CSharp](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)&nbsp;
 ![DotNet](https://img.shields.io/badge/-DotNet-05122A?style=flat&logo=.net)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=Typescript)&nbsp;
+![Node](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Nest](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs)&nbsp;
 
 
 - Limbo tools (technologies that i used sometime, but have little expertise)
 
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
-![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
+![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)&nbsp;
 
 <br><br>
 
